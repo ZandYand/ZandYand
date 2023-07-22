@@ -135,7 +135,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zand.sa93@gmail.com)
 
 
